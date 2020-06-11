@@ -1,0 +1,20 @@
+JSON для добавления записи:
+
+    {
+        "id": 4,
+        "name": "Kusakin Evgeniy Aleksandrovich",
+        "passport": "43 36 788451"
+    }
+
+JSON для изменения и удаления записи:
+    {
+        "id": 4,
+        "name": "Shabaeva Tatyana Yurievna",
+        "passport": "43 36 777451"
+    }
+JSON для проверки ошибки при задании нулевого объекта:
+    {
+        "id": "",
+        "name": "Shabaeva Tatyana Yurievna",
+        "passport": "43 36 777451"
+    }
